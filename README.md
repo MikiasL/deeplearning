@@ -1,2 +1,2 @@
-# deeplearning
-This repository is about deep learning 
+# Deeplearning
+This repository is about object detection, large language model for natural language using deep learning
